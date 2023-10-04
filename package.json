@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "prueba_miguel",
+  "version": "1.0.0",
+  "description": "Creacion de un repositorio en github desktop, el cual sera compartido con los diferentes compañeros de clase, para modificar e interactuar entre nosotros, actualizando versiones una a una.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Alejandro Rodriguez Barcenas",
+  "license": "ISC"
+}
